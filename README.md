@@ -30,7 +30,7 @@ Initially, I encountered difficulties with this project, particularly with regis
 Please refer to the LICENSE in the repo.
 
 ## Screenshot
-  ![Screenshot1] (screenshot.png)
+  ![Screenshot1](screenshot.png)
 
 
 ## URL
